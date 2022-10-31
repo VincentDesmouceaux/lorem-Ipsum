@@ -8,3 +8,9 @@
 .paragraph {
   padding-bottom: 15px;
 }
+
+.color {
+  background: gray;
+  margin-bottom: 10px;
+  width: 300px;
+}
